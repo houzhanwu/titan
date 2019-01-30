@@ -4,29 +4,29 @@
 技术选型
 
 
-前端	antd-pro
-分布式框架	spring-cloud
-基础框架	spring-boot
-mc框架	springMVC
-安全框架	Apache Shiro
-ORM框架	MyBatis
-代码生成	MyBatis Generator
-分页	PageHelper
-数据库连接池	Druid
-接口测试框架	Swagger2
-分布式高效ID生产	sequence
-云存储	AliOSS & Qiniu
-数据序列化	Protobuf & json
-项目构建管理	Maven
-注册中心	eureka
-网关	gateway
-声明式调用	feign
-负载均衡	ribbon
-熔断机制	hystrix
-服务追踪治理	zipkin
-运行时环境	jdk1.8
-消息中心	Rabbitmq
-配置中心	Apollo
-分布式缓存数据库	Redis
-NoSql数据库	Mongodb
-关系数据库	Mysql
+|前端|	antd-pro|
+|分布式框架|	spring-cloud|
+|基础框架|	spring-boot|
+|mvc框架|	springMVC|
+|安全框架|	Apache Shiro|
+|ORM框架|	MyBatis|
+|代码生成|	MyBatis Generator|
+|分页|	PageHelper|
+|数据库连接池|	Druid|
+|接口测试框架|	Swagger2|
+|分布式高效ID生产|	sequence|
+|云存储|	AliOSS & Qiniu|
+|数据序列化|	Protobuf & json|
+|项目构建管理|	Maven|
+|注册中心|	eureka|
+|网关|	gateway|
+|声明式调用|	feign|
+|负载均衡|	ribbon|
+|熔断机制|	hystrix|
+|服务追踪治理|	zipkin|
+|运行时环境|	jdk1.8|
+|消息中心|	Rabbitmq|
+|配置中心|	Apollo|
+|分布式缓存数据库|	Redis|
+|NoSql数据库	Mongodb|
+|关系数据库|	Mysql|
