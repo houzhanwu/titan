@@ -1,9 +1,0 @@
-spring:
-    application:
-        name: product-service
-#    cloud:
-#      config:
-#         label: master
-#         name: erp-product
-#         uri: http://10.20.0.131:8763/
-#         profile: ${spring.profiles.active:dev}
