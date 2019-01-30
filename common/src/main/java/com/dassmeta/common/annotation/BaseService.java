@@ -1,1 +1,0 @@
-package com.dassmeta.common.annotation;/** * dassmeta.com Inc. * Copyright (c) 2017-2019 All Rights Reserved. */public @interface BaseService {}
