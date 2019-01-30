@@ -1,0 +1,1 @@
+package com.dassmeta.common.annotation;/** * Aistarfish.com Inc. * Copyright (c) 2017-2019 All Rights Reserved. */public @interface BaseService {}
