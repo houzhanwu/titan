@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.dassmeta.titan</groupId>
+        <artifactId>dassmeta-titan</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <artifactId>titan-wechat-mp</artifactId>
+    <packaging>pom</packaging>
+
+    <name>titan-wechat-mp</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <modules>
+        <module>wechat-mp-dao</module>
+        <module>wechat-mp-service</module>
+        <module>wechat-mp-admin</module>
+    </modules>
+
+</project>
