@@ -1,0 +1,13 @@
+*.iml
+classes
+generated-sources
+generated-test-sources
+test-classes
+.idea
+.settings
+.classpath
+.project
+target
+local
+.DS_Store
+.mvn
